@@ -1,0 +1,13 @@
+
+\.idea/
+
+*.iml
+<<<<<<< Updated upstream
+\out/
+=======
+<<<<<<< HEAD
+out/
+=======
+\out/
+>>>>>>> parent of 46fcf1d... errors
+>>>>>>> Stashed changes
